@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: |cFFdc0000E|cFFd28c00w|cFFcebf2cy |cFF008400R|cFF3238bda|cFF712ccet|r, the Addon!
+## Author: Wee Spirit(RP):Forever
+## Notes: Maeks funni bare sound lol wowfunny.com
+## Version: 0.11
+
+main.lua
